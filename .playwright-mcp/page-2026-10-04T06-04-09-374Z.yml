@@ -1,0 +1,42 @@
+- generic [ref=f5e512]:
+  - generic [ref=f5e513]:
+    - banner [ref=f5e514]:
+      - generic [ref=f5e515]:
+        - generic:
+          - generic:
+            - generic [ref=f5e516]:
+              - button "Open Menu" [ref=f5e517] [cursor=pointer]
+              - img "Open Menu" [ref=f5e518]
+            - generic [ref=f5e541]:
+              - navigation [ref=f5e543]:
+                - button "All Items" [active] [ref=f5e544] [cursor=pointer]
+                - button "Dynamic Catalog" [ref=f5e545] [cursor=pointer]
+                - link "About" [ref=f5e547] [cursor=pointer]:
+                  - /url: https://saucelabs.com/
+                - button "Logout" [ref=f5e548] [cursor=pointer]
+                - button "Reset App State" [ref=f5e549] [cursor=pointer]
+              - generic [ref=f5e550]:
+                - button "Close Menu" [ref=f5e551] [cursor=pointer]
+                - img "Close Menu" [ref=f5e552]
+        - generic [ref=f5e519]: Swag Labs
+        - button "Cart, empty" [ref=f5e522]
+      - generic [ref=f5e523]: "Checkout: Complete!"
+    - main [ref=f5e525]:
+      - img "Pony Express" [ref=f5e526]
+      - heading "Thank you for your order!" [level=2] [ref=f5e527]
+      - generic [ref=f5e528]: Your order has been dispatched, and will arrive just as fast as the pony can get there!
+      - generic [ref=f5e529]:
+        - button "Back Home" [ref=f5e530] [cursor=pointer]
+        - button "Generate PDF order" [ref=f5e531] [cursor=pointer]
+  - contentinfo [ref=f5e532]:
+    - list [ref=f5e533]:
+      - listitem [ref=f5e534]:
+        - link "X" [ref=f5e535] [cursor=pointer]:
+          - /url: https://x.com/saucelabs
+      - listitem [ref=f5e536]:
+        - link "Facebook" [ref=f5e537] [cursor=pointer]:
+          - /url: https://www.facebook.com/saucelabs
+      - listitem [ref=f5e538]:
+        - link "LinkedIn" [ref=f5e539] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sauce-labs/
+    - generic [ref=f5e540]: © 2026 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy

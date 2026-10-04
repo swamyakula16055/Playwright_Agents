@@ -1,0 +1,17 @@
+- generic [ref=f7e3]:
+  - generic [ref=f7e4]: Swag Labs
+  - main [ref=f7e5]:
+    - form "Login" [ref=f7e9]:
+      - textbox "Username" [ref=f7e11]
+      - textbox "Password" [ref=f7e15]
+      - alert [ref=f7e19]:
+        - button "Dismiss error" [ref=f7e20] [cursor=pointer]
+        - text: "Epic sadface: You can only access '/inventory.html' when you are logged in."
+      - button "Login" [ref=f7e23] [cursor=pointer]
+    - generic [ref=f7e25]:
+      - generic [ref=f7e26]:
+        - heading "Accepted usernames are:" [level=4] [ref=f7e27]
+        - text: standard_userlocked_out_userproblem_userperformance_glitch_usererror_uservisual_user
+      - generic [ref=f7e28]:
+        - heading "Password for all users:" [level=4] [ref=f7e29]
+        - text: secret_sauce

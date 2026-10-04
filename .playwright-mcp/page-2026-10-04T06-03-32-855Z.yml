@@ -1,0 +1,47 @@
+- generic [ref=f5e464]:
+  - generic [ref=f5e465]:
+    - banner [ref=f5e466]:
+      - generic [ref=f5e467]:
+        - generic [ref=f5e468]:
+          - button "Open Menu" [ref=f5e469] [cursor=pointer]
+          - img "Open Menu" [ref=f5e470]
+        - generic [ref=f5e471]: Swag Labs
+        - button "Cart, 1 items" [ref=f5e474]:
+          - generic [ref=f5e475]: "1"
+      - generic [ref=f5e476]: "Checkout: Overview"
+    - main [ref=f5e478]:
+      - generic [ref=f5e479]:
+        - generic [ref=f5e480]:
+          - generic [ref=f5e481]: QTY
+          - generic [ref=f5e482]: Description
+          - generic [ref=f5e483]:
+            - generic [ref=f5e484]: "1"
+            - generic [ref=f5e485]:
+              - button "View details for Sauce Labs Fleece Jacket" [ref=f5e486] [cursor=pointer]:
+                - generic [ref=f5e487]: Sauce Labs Fleece Jacket
+              - generic [ref=f5e488]: It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.
+              - generic [ref=f5e489]: $49.99
+        - generic [ref=f5e491]:
+          - generic [ref=f5e492]: "Payment Information:"
+          - generic [ref=f5e493]: "SauceCard #31337"
+          - generic [ref=f5e494]: "Shipping Information:"
+          - generic [ref=f5e495]: Free Pony Express Delivery!
+          - generic [ref=f5e496]: Price Total
+          - generic [ref=f5e497]: "Item total: $49.99"
+          - generic [ref=f5e498]: "Tax: $4.00"
+          - generic [ref=f5e499]: "Total: $53.99"
+          - generic [ref=f5e500]:
+            - button "Cancel" [ref=f5e501] [cursor=pointer]
+            - button "Finish" [ref=f5e502] [cursor=pointer]
+  - contentinfo [ref=f5e503]:
+    - list [ref=f5e504]:
+      - listitem [ref=f5e505]:
+        - link "X" [ref=f5e506] [cursor=pointer]:
+          - /url: https://x.com/saucelabs
+      - listitem [ref=f5e507]:
+        - link "Facebook" [ref=f5e508] [cursor=pointer]:
+          - /url: https://www.facebook.com/saucelabs
+      - listitem [ref=f5e509]:
+        - link "LinkedIn" [ref=f5e510] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sauce-labs/
+    - generic [ref=f5e511]: © 2026 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy
